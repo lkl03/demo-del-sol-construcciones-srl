@@ -1,2 +1,7 @@
-# demo-del-sol-construcciones-srl
-Demo web para Del Sol Construcciones SRL — diseñada por eterlab.
+# Del Sol Construcciones SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
